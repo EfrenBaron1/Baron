@@ -28,7 +28,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <form action="dashboard.php"
     <div class="container">  
         <h1>Welcome</h1>
         <h2>Efren Baron Jr.</h2>
